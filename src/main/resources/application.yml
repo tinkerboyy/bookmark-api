@@ -1,0 +1,10 @@
+server:
+  port: 9000
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://tinkerboyy:madhuka1*@ds137267.mlab.com:37267/springdb 
+      
+    rest:
+      basePath: /api/v1
